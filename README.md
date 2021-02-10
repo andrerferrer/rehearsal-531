@@ -4,7 +4,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/<your_github_nickname>
-git clone ggit@github.com:andrerferrer/rehearsal-boilerplate.git rehearsal
+git clone ggit@github.com:andrerferrer/rehearsal-531.git rehearsal
 cd rehearsal
 rm -rf .git
 yarn install
